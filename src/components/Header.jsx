@@ -1,5 +1,5 @@
 import menu from "../assets/menu-button.svg";
-import logo from "../assets/logo.svg";
+import logo from "../assets/Logo.svg";
 import headerbg from "../assets/headerimg.png";
 import telegram from "../assets/telegram.svg";
 import whatsapp from "../assets/whatsapp.svg";

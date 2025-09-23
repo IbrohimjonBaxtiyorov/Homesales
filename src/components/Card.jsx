@@ -29,6 +29,11 @@ export default function Card() {
       </div>
 
       <ContactCard/>
+
+      <div className="flex flex-col gap-[5px] sm:gap-5 text-center items-center justify-center sm:mb-[54px]  mb-[38px]">
+        <h2 className="text-[#35465E] text-[24px] sm:text-[36px] font-extrabold">Объект находится по адресу</h2>
+        <p className="text-[#35465E] text-[16px] sm:text-[26px]">ул. В. Хромых, д. 29, 2 эт, оф. No2</p>
+      </div>
     </div>
   );
 }
